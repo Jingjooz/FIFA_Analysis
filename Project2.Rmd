@@ -1,5 +1,5 @@
 ---
-title: "FIFA_Analysis"
+title: "FIFA 2019_Analysis"
 author: "CrystalMeth"
 date: "Nov 19, 2019"
 output:
@@ -81,7 +81,7 @@ head(data)
 
 
 ### Smart Question 5 (JAY)
-#### How do physical factors (age, preferred foot, overall skill, international reputation, position in the field, weight, and height) help the soccer professionals to get wage for higher 100,000 Euro per week?
+#### How do physical factors (age, preferred foot, overall skill, position in the field, weight, and height) help the soccer professionals to get wage for higher 100,000 Euro per week?
 ```{r S5, echo=FALSE, include=TRUE}
 #Wage(Factor) – 1 (Higher 100k euro per week), 0 (lower 100k euro per week).
 #Age (Integer)
